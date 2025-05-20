@@ -8,3 +8,4 @@ repositorio para la creación de README para la hoja de vida
 ## Habilidades
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas como GitHub
+##Estado civil 
